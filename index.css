@@ -58,3 +58,20 @@
 /*sec11*/
 .sec11 h1{text-align: center;margin-top: 10px;margin-bottom: 35px;}
 .sec11{min-height: 850px;}
+
+/*sec13*/
+.frm h1{margin-bottom: 25px;color: black;margin-top: 15px;}
+.formControl{width: 330px; height: 30px;}
+.textarea{width: 665px;height: 140px;margin-top: 25px;}
+.hr{width: 665px;}
+
+
+
+
+.sec14{margin-top: 25px;}
+.ico{margin-right: 25%;}
+
+
+.sec15{margin-top: 25px;}
+.hr2{width: 50%;}
+
