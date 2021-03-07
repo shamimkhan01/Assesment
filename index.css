@@ -67,12 +67,12 @@
 
 
 
-
+/*sec14*/
 .sec14{margin-top: 25px;}
 .ico{margin-right: 25%;}
 
-
-.sec15{margin-top: 25px;}
+/*sec15*/
+.sec15{margin-top: 30px; min-height: 420px;}
 .hr2{width: 50%;}
 
 
@@ -95,3 +95,8 @@
     position:relative;
 
 }
+/*sec16*/
+.last{min-height: 120px;background-color: #f2f2f2;}
+.last h4{margin-top: 15px;}
+.lt{display: flex;}
+.lt h5{float: right;}
