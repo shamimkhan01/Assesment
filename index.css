@@ -12,8 +12,9 @@
 
 /* sec3*/
 .sec3 h1{text-align: center; font-weight: 300;margin-top: 65px; margin-bottom: 65px;}
-.greenimg img{height: 100px;width: 100px; border: 1px solid#f0f0f0; background-color: #f0f0f0; border-radius: 50%;padding: 20px;}
-.greenimg{text-align: center;}
+.greenimg img{height: 60px;width: 60px; border: 1px solid#f0f0f0; background-color: ; margin-top: 23px;}
+.greenimg{text-align: center; }
+.wraper{height: 110px;width: 110px;background-color:#f0f0f0;border-radius: 50%;  ;margin-left: 20%;}
 .greenimg h2{margin-top: 20px;margin-bottom: 20px;}
 .sec3{margin-bottom: 60px;}
 
