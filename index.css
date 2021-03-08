@@ -1,7 +1,7 @@
 .nv{margin:auto;}
 .nv ul li{padding: 20px; font-size: 1.5rem;}
 .navbar-brand{display: flex;}
-.navbar-brand img{width: 45px;}
+.navbar-brand img{width: 40px;height: 25px;margin-top: 5px;}
 .fa-search{font-size: 2rem;}
 
 /* sec2*/
@@ -58,12 +58,16 @@
 /*sec11*/
 .sec11 h1{text-align: center;margin-top: 10px;margin-bottom: 35px;}
 .sec11{min-height: 850px;}
+.text1{text-align: center;margin-top: 20px;}
+.text1 h4{font-weight: 300;}
 
 /*sec13*/
 .frm h1{margin-bottom: 25px;color: black;margin-top: 15px;}
 .formControl{width: 330px; height: 30px;}
 .textarea{width: 665px;height: 140px;margin-top: 25px;}
 .hr{width: 665px;}
+.ttt h5{font-weight: 100; font-size: 1rem;}
+.ttt h4{font-weight: 200;}
 
 
 
@@ -102,3 +106,5 @@
 .lt h5{float: right;}
 .lm{margin-top: 20px;}
 .ti{color: #b0cd3b ;}
+
+.b1.b2.b3 :hover {background-color: red; color: red;}
