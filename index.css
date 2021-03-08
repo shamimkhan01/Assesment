@@ -22,7 +22,7 @@
 .b1{background-color: #b0cd3b; color: seashell;border:#b0cd3b ; border-radius: 3px; width: 140px;height: 45px;}
 .b2{background-color:#1bbc9d ; color:seashell;border: #1bbc9d; border-radius: 3px; width: 140px;height: 45px;}
 .sec4e{margin-top: 150px; position: absolute;}
-.sec4e h1{color: cornsilk;font-weight: 400;}
+.sec4e h1{color: white;font-weight: 400;}
 /* sec5*/
 .sec5{text-align: center;min-height: 420px;}
 .sec5 h1{margin-top: 50px;font-weight: 300;}
@@ -39,8 +39,8 @@
 /*sec7*/
 .sec7{min-height: 430px;background-color: #c9bdb3; position: relative;}
 .sec7text{position: absolute; margin-top: 160px;margin-left: 100px;}
-.sec7text h1{font-size: 4rem;color: cornsilk;font-weight: 300;}
-.sec7text h2{font-size: 3rem; color: cornsilk;font-weight: 300;}
+.sec7text h1{font-size: 4rem;color: white;font-weight: 300;}
+.sec7text h2{font-size: 3rem; color: white;font-weight: 300;}
 
 /*sec8*/
 .sec8 h1{margin-top: 60px;text-align: center;font-weight: 300;}
@@ -100,3 +100,5 @@
 .last h4{margin-top: 15px;}
 .lt{display: flex;}
 .lt h5{float: right;}
+.lm{margin-top: 20px;}
+.ti{color: #b0cd3b ;}
