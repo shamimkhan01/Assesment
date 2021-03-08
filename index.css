@@ -26,13 +26,23 @@
 /* sec5*/
 .sec5{text-align: center;min-height: 420px;}
 .sec5 h1{margin-top: 50px;font-weight: 300;}
-.b3{background-color: #ececec; border: #ececec; padding: 10px; margin: 4px;}
+.b3{background-color: #ececec; border: #ececec; padding: 10px; margin: 4px; border-radius: 5px;}
 .b3 :hover {color: cornsilk;background-color: #1bbc9d;}
 /*sec6*/
 
 
 .s5c{min-height: 225px; min-width:225px;}
-.pic{min-height:215px ; min-width: 215px;background-color: darkgrey;}
+.pic{min-height:215px ; min-width: 215px;background-color: darkgrey; position: relative;}
+.inner{height: 190px; width: 190px; background-color:black;margin-left: 10%; margin-top: 5%;
+       position: absolute; text-align: center; opacity: 0;}
+.inner h4{margin-top:30%; color: white ;}
+.inner h5{color: white;}
+
+.pic :hover.inner {opacity: 1;}
+
+
+
+
 .load{margin-top: 25px; color: #21d42a
     ;}
 .load h1{color: black;}
@@ -63,8 +73,8 @@
 
 /*sec13*/
 .frm h1{margin-bottom: 25px;color: black;margin-top: 15px;}
-.formControl{width: 330px; height: 30px;}
-.textarea{width: 665px;height: 140px;margin-top: 25px;}
+.formControl{width: 48%; height: 30px;}
+.textarea{width: 97%;height: 140px;margin-top: 25px;}
 .hr{width: 665px;}
 .ttt h5{font-weight: 100; font-size: 1rem;}
 .ttt h4{font-weight: 200;}
@@ -107,4 +117,5 @@
 .lm{margin-top: 20px;}
 .ti{color: #b0cd3b ;}
 
-.b1.b2.b3 :hover {background-color: red; color: red;}
+.bbb:hover .button{background-color: #512df3; color:white;}
+.btn :hover.btn2{background-color: #512df3; color:white;}
